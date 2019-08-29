@@ -1,4 +1,4 @@
-# Sales Prediction with Time Series Modeling and Sentiment Analysis
+# Sales Prediction with Time Series Modeling
 
 ### Objective
 The goal of this project is to predict the future sales of iPhones using sentiment analysis results generated from Reddit posts.
